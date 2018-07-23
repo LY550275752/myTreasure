@@ -16,5 +16,8 @@
 [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 [Vue逐行级别的源码分析](http://hcysun.me/vue-design/)
 
+### webpack
+[深入浅出 Webpack](http://webpack.wuhaolin.cn/)
+
 ### 实际项目
 [手摸手，带你用vue撸后台](https://segmentfault.com/a/1190000009275424)  [demo](http://panjiachen.github.io/vue-element-admin)
