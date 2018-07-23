@@ -13,6 +13,8 @@
 
 :star:[underscore源码解析](https://legacy.gitbook.com/book/yoyoyohamapi/undersercore-analysis/details)  
 [underscore分析](https://zhuanlan.zhihu.com/c_158541431)
+[Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
+[Vue逐行级别的源码分析](http://hcysun.me/vue-design/)
 
 ### 实际项目
 [手摸手，带你用vue撸后台](https://segmentfault.com/a/1190000009275424)  [demo](http://panjiachen.github.io/vue-element-admin)
