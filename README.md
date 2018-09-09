@@ -10,8 +10,8 @@
 [Visual Studio Code 使用Git进行版本控制](https://www.cnblogs.com/xuanhun/p/6019038.html?utm_source=tuicool&utm_medium=referral)
 
 ### 源码解析
-
-:star:[underscore源码解析](https://legacy.gitbook.com/book/yoyoyohamapi/undersercore-analysis/details)  
+:star:[如何阅读大型前端开源项目的源码](https://zhuanlan.zhihu.com/p/36996225)
+[underscore源码解析](https://legacy.gitbook.com/book/yoyoyohamapi/undersercore-analysis/details)  
 [underscore分析](https://zhuanlan.zhihu.com/c_158541431)
 [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 [Vue逐行级别的源码分析](http://hcysun.me/vue-design/)
